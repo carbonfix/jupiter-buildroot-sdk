@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="git@git.spacemit.com:bianbu-linux"/>
+  
+  <default remote="origin" revision="bl-v1.0.y" sync-j="8"/>
+  
+  <project name="ai-support" path="package-src/ai-support" revision="0aee1c36b16be75e3987fee3539693f29ef645cc" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="buildroot" revision="3e9bbf514f6652c8b2ecb73aebba876d7d488df1" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="buildroot-ext" revision="1892ba15e1bc3f42335e21bc73d405b85060d0a4" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="drm-test" path="package-src/drm-test" revision="86a9f204364578268d1be40212385c3438d4eb75" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="glmark2" path="package-src/glmark2" revision="c6ede6f18d939b68806683f5a569d8f89c8f79e0" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="img-gpu-powervr" path="package-src/img-gpu-powervr" revision="fa2c75f4274ed57399129bc1545a44900f0e945d" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="k1x-cam" path="package-src/k1x-cam" revision="635a4f96c37a58d61f16bb4f10bbf6b4ad5efdaa" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="k1x-jpu" path="package-src/k1x-jpu" revision="798a89019382288235c6bdf20a28db398df69d7c" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="k1x-vpu-firmware" path="package-src/k1x-vpu-firmware" revision="fde12d1f5c47b8ee55ceaa85b1d3d418e6357e2d" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="k1x-vpu-test" path="package-src/k1x-vpu-test" revision="f5d83cfbb1a4c5e99cd7c89734f18381ec4dff94" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="linux-6.1" path="bsp-src/linux-6.1" revision="79082f20e747c48b76dc8be61c4965ed39f684b5" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="mesa3d" path="package-src/mesa3d" revision="b5fd6835345e802132080a6a28cb73932b365db2" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="mpp" path="package-src/mpp" revision="33953193f8136c4ac2dbe3c9246bbe519dd36ec2" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="opensbi" path="bsp-src/opensbi" revision="7aad08218f25d4eed674bc172995f38291ebfb5e" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="rtk_hciattach" path="package-src/rtk_hciattach" revision="9ce1210f63cce2da2ee7a347fa7f71cfb764aa20" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="scripts" revision="00383e0f8c88852f0723b2bbb3c2483bfd5d4b75" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y">
+    <copyfile src="Makefile" dest="Makefile"/>
+  </project>
+  <project name="uboot-2022.10" path="bsp-src/uboot-2022.10" revision="8d274159c9646935bed636c5b3c67bf194a02df2" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+  <project name="v2d-test" path="package-src/v2d-test" revision="541f1dd9bcfcb5e49e9e48fe96f5b530eb92f4fc" upstream="bl-v1.0.y" dest-branch="bl-v1.0.y"/>
+</manifest>
