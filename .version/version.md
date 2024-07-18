@@ -16,7 +16,7 @@
 | k1x-vpu-test     | package-src/k1x-vpu-test     | https://gitee.com/bianbu-linux/k1x-vpu-test.git     | bl-v1.0.y | f5d83cf   |
 | mpp              | package-src/mpp              | https://gitee.com/bianbu-linux/mpp.git              | bl-v1.0.y | ca72db9   |
 | drm-test         | package-src/drm-test         | https://gitee.com/bianbu-linux/drm-test.git         | bl-v1.0.y | 86a9f20   |
-| v2d-test         | package-src/v2d-test         | https://gitee.com/bianbu-linux/v2d-test.git         | bl-v1.0.y | 541f1dd   |
+| v2d-test         | package-src/v2d-test         | https://gitee.com/bianbu-linux/v2d-test.git         | bl-v1.0.y | 27a6e21   |
 | rtk_hciattach    | package-src/rtk_hciattach    | https://gitee.com/bianbu-linux/rtk_hciattach.git    | bl-v1.0.y | 9ce1210   |
 | factorytest      | package-src/factorytest      | https://gitee.com/bianbu-linux/factorytest.git      | bl-v1.0.y | a2c1d15   |
 | scripts          | scripts                      | https://gitee.com/bianbu-linux/scripts.git          | bl-v1.0.y | b124d10   |
