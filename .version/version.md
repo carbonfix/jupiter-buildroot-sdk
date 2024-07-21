@@ -5,7 +5,7 @@
 | opensbi          | bsp-src/opensbi              | https://gitee.com/bianbu-linux/opensbi.git          | bl-v1.0.y | 94bf83c   |
 | uboot-2022.10    | bsp-src/uboot-2022.10        | https://gitee.com/bianbu-linux/uboot-2022.10.git    | bl-v1.0.y | 41499876  |
 | buildroot        | buildroot                    | https://gitee.com/bianbu-linux/buildroot.git        | bl-v1.0.y | c931bbf5  |
-| buildroot-ext    | buildroot-ext                | https://gitee.com/bianbu-linux/buildroot-ext.git    | bl-v1.0.y | 2cc122c   |
+| buildroot-ext    | buildroot-ext                | https://gitee.com/bianbu-linux/buildroot-ext.git    | bl-v1.0.y | a64f372   |
 | ai-support       | package-src/ai-support       | https://gitee.com/bianbu-linux/ai-support.git       | bl-v1.0.y | 1974ea5   |
 | glmark2          | package-src/glmark2          | https://gitee.com/bianbu-linux/glmark2.git          | bl-v1.0.y | c6ede6f   |
 | img-gpu-powervr  | package-src/img-gpu-powervr  | https://gitee.com/bianbu-linux/img-gpu-powervr.git  | bl-v1.0.y | e6d64fc   |
