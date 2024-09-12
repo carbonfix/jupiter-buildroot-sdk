@@ -1,11 +1,11 @@
 
 | Package          | PATH                         | URL                                                 | Branch    | Commit    |
 |:-----------------|:-----------------------------|:----------------------------------------------------|:----------|:----------|
-| linux-6.1        | bsp-src/linux-6.1            | https://gitee.com/bianbu-linux/linux-6.1.git        | bl-v1.0.y | 3d93f8df3 |
-| opensbi          | bsp-src/opensbi              | https://gitee.com/bianbu-linux/opensbi.git          | bl-v1.0.y | 6cf0c8e   |
-| uboot-2022.10    | bsp-src/uboot-2022.10        | https://gitee.com/bianbu-linux/uboot-2022.10.git    | bl-v1.0.y | 939bccfd  |
+| linux-6.1        | bsp-src/linux-6.1            | https://gitee.com/bianbu-linux/linux-6.1.git        | bl-v1.0.y | 320da5d5a |
+| opensbi          | bsp-src/opensbi              | https://gitee.com/bianbu-linux/opensbi.git          | bl-v1.0.y | 08916e4   |
+| uboot-2022.10    | bsp-src/uboot-2022.10        | https://gitee.com/bianbu-linux/uboot-2022.10.git    | bl-v1.0.y | 29c150fa  |
 | buildroot        | buildroot                    | https://gitee.com/bianbu-linux/buildroot.git        | bl-v1.0.y | 02a8c415  |
-| buildroot-ext    | buildroot-ext                | https://gitee.com/bianbu-linux/buildroot-ext.git    | bl-v1.0.y | 8707b37   |
+| buildroot-ext    | buildroot-ext                | https://gitee.com/bianbu-linux/buildroot-ext.git    | bl-v1.0.y | ff29729   |
 | ai-support       | package-src/ai-support       | https://gitee.com/bianbu-linux/ai-support.git       | bl-v1.0.y | f6f1b03   |
 | glmark2          | package-src/glmark2          | https://gitee.com/bianbu-linux/glmark2.git          | bl-v1.0.y | c6ede6f   |
 | img-gpu-powervr  | package-src/img-gpu-powervr  | https://gitee.com/bianbu-linux/img-gpu-powervr.git  | bl-v1.0.y | cf1feb6   |
